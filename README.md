@@ -1,4 +1,4 @@
-# Live-Santander-Python-Basics
+# Santander Ciências de Dados
 
 Códigos da Live Santander - Python Basics, apresentada no dia 08/07/2021.
 
